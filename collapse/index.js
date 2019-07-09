@@ -37,3 +37,4 @@ const collapseToggles = document.querySelectorAll(`[data-toggle="collapse"]`);
 
 collapseToggles.forEach(button => new Collapse(button));
 });
+
